@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    liking (0.0.2)
+    liking (0.0.3)
       rails (~> 3.2.8)
 
 GEM
