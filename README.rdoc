@@ -7,7 +7,7 @@ This project rocks and uses MIT-LICENSE.
 == Install
 
 * Gemfile
-gem "liking", "~> 0.0.3"
+    gem "liking", "~> 0.0.3"
 
 == Usage
 
