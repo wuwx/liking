@@ -1,3 +1,13 @@
 = Liking
 
 This project rocks and uses MIT-LICENSE.
+
+== Features
+
+== Install
+
+* Gemfile
+gem "liking", "~> 0.0.3"
+
+== Usage
+
