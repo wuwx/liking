@@ -11,4 +11,11 @@ This project rocks and uses MIT-LICENSE.
 
 == Usage
 
+=== View
     <%= like_for @resource %>
+
+=== I18n
+* /config/locales/en.yml
+    en:
+      liking:
+        like: Like
